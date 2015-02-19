@@ -1,5 +1,7 @@
 # TotalEnumeration
 
+[![Join the chat at https://gitter.im/Jugal43/TotalEnumeration](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jugal43/TotalEnumeration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Library provides enumerating all the posible combination of matrix accross the column.
 
 Library uses Itrator Implementation.
