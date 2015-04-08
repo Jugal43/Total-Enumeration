@@ -6,7 +6,7 @@ Library provides enumerating all the posible combination of matrix accross the c
 
 Library uses Itrator Implementation.
 
-Currently implemented in PHP.
+Currently implemented in PHP,Java.
  
 Example :-
 ```php
@@ -25,3 +25,4 @@ Output =
 [4      5]
 ]
 ```
+Next Implementation in Python
